@@ -1,0 +1,3583 @@
+fileFormatVersion: 2
+guid: 5e424373616ea704daa81eacb774c034
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bisasam
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3393
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0845550a4f674eab39ee65343cfa8
+      internalID: 784268017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisaknosp
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3388
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9bcf2651f63f48b2c86d70b387992
+      internalID: -249815832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisaflor
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3390
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef04754adf3b3a4299f10e1bdeb93ba
+      internalID: 612357416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glumanda
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3383
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e042040cfcf349b6e6715b08b7059
+      internalID: -1996839547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glutexo
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3387
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e732cd164c874c4fb87fc398dfeb7eb
+      internalID: 960023631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glurak
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3391
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4344e05c76f6244f8f0f79252a4a9a7
+      internalID: -1774034013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shiggy
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3387
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74222606d319dcd4d84da7e6b348cdc5
+      internalID: 463400124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schillok
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 3387
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91f1b192e0c88e43a7000e547c07e8c
+      internalID: -416575886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turtok
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3387
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e28bc9c6d3aa45981b61b354ca3d2
+      internalID: 331049794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raupy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949749a4509509c44a4ffd3bc6c7b42f
+      internalID: -1394486872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Safcon
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3194
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090502c06f5fde48a8179c89cb4bc84
+      internalID: 1048038959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smettbo
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3191
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc7a838017d7c448964fab739ed276
+      internalID: 151478623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornliu
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3193
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4681fbacddd3a4e9f0a395b02360d5
+      internalID: -134144376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kokuna
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3199
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd0fc782e912c429c56630fc7bde94
+      internalID: -207583476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibor
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3193
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f8b5a74412bd4580796483260306d
+      internalID: 1801948603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taubsi
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3197
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6f28311465f0418d3c2df4a822aaa
+      internalID: 167434238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tauboga
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3188
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b0a09f1ebb9bf4cb9e3e1c546f8ebd
+      internalID: -549254830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tauboss
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 3191
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86daa9ccbd2192a4aabd5d828b74c188
+      internalID: 1675753345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rattfratz
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2997
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ffde9d0996014bb2721483f1597db
+      internalID: 984159459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rattikarl
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2998
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed11d55cedf3249a43b73fb5d5719e
+      internalID: 305828996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Habitak
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3003
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48293382ce01e945889de743c8b3835
+      internalID: 840430945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibitak
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2996
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ebbedd2ea753d41a416c12ef34d4d8
+      internalID: -280964023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rettan
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2999
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01057f3848f844c84b1ebbe57b5897
+      internalID: 58308469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbok
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2998
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca31f3f93e6c941b5c9acbee81f760
+      internalID: -1016759219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikachu
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2998
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcde12dec1f9642bc0da15ea8427c4
+      internalID: -1840770012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raichu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a3ac24feac7042a0a42f19f31e04b
+      internalID: 926483385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandan
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2800
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6acdbdf0788c4dbb43d08d140d47d
+      internalID: -434418318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandamer
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2800
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0abc4ac7fd2c3459e7349e5bf79edc
+      internalID: -1095502473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nidoran\u2640"
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2802
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1388f201d87b73947a317cf2a488009e
+      internalID: -777427487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nidorina
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2799
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b343c5e58984134cb219b1bb02d3c2a
+      internalID: -2011796906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nidoqueen
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2802
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee2700e81b757448927e5a816a2c75
+      internalID: 1170054081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Nidoran\u2642"
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2802
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52eda574da4b5749bc58d7733b4eab4
+      internalID: 1035005828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nidorino
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2806
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19a36b63e0cff4bbf8ccef2deb7afc
+      internalID: -95657116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nidoking
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2806
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ae087bfba674418a746702a5f1788
+      internalID: -186517183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piepi
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2608
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881390b42e3623242890a16983c6d2c6
+      internalID: -1547258312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixi
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2609
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526fe2ef08d0af546971f83f78eb497c
+      internalID: 1109589304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulpix
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2609
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce057044b3de8f46b75f6bdbe40d899
+      internalID: -124683600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulnona
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2614
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5203322f83bdb7a4eb6d0f2a442785e6
+      internalID: -1291204165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pummeluff
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2605
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f44bf5eec38b49989ce91ff15f16c
+      internalID: 1882565857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knuddeluff
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2608
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3079fc06cfdc49a7956b01b9b42b0
+      internalID: 825662119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zubat
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2615
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca891a64289b8b4ab5b67f04d5fb3b8
+      internalID: 1735137739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golbat
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2612
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4610ce0f625a4e8b92e71baa5955e
+      internalID: -248091708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Myrapla
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2412
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b76299c82d63e448b38213c3b1306c
+      internalID: 72770526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duflor
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2414
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910eb89c7e15ca34e9f4481b0ad7699a
+      internalID: 386120308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giflor
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2415
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03565a84552a7b49ba2b2ebbac73939
+      internalID: 889163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paras
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2418
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d4ff9a2a26a448a48c32c07e8f149
+      internalID: 2142526790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parasek
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2413
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de1c991d3e23a43a4fb338dc94e90e
+      internalID: 1579086454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bluzuk
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2411
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fd39924e4dbd4584b6ee64282ee0b
+      internalID: 1604738259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omot
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2411
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544d672fd03f2642a1b226becd00cc9
+      internalID: -1900935529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digda
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 2413
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f38f51bff26145a6155c820aa5ce8
+      internalID: -1334541517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Digdri
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2218
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c99c551a03ab540b05504d758cc36c
+      internalID: -930628444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mauzi
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2217
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041442470346b494992368aa4cdfd2a2
+      internalID: 1750948689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snobilikat
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2222
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fec255fb9710943a5df8d4cc839b48
+      internalID: 421758075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enton
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2217
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a9a87c83a9db4da2a663089e6d76f
+      internalID: 2012816608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entoron
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2219
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f279fdb6bb21713438f2f8abd0a2163e
+      internalID: 1853865266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menki
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2221
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c84ee6be202345ad6b81a7a2f1b2b
+      internalID: 720408359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rasaff
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 2224
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d26d2905a43f6547828502c1e51ea74
+      internalID: -388305351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fukano
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 2219
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b8c5c966880a4a8ba80447d78429c
+      internalID: -891256551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arkani
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2215
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6a7585a6952447bfe91e21df6b433
+      internalID: 454543716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quapsel
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 2221
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9789ab95dc82b4295cdda2c0272c9f
+      internalID: -1794386694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quaputzi
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2023
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a3fe7944a4cf44a039594d2f4a31a
+      internalID: 1135127980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quappo
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2020
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9e44f945107449bb5a59b608ca660
+      internalID: 847706889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abra
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2028
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f0a070d1851743a7e1689140ae586
+      internalID: 603299770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kadabra
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2025
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d51d5dc0c6424e92ba09a84ca5bbb
+      internalID: 848639614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simsala
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2025
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412638025f84ef4439b53e4737609bbf
+      internalID: -529696219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machollo
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 2025
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf35f4e4ca5e24c95d8fe5225112c9
+      internalID: -1188678278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maschock
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2025
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e81188308c887d44a462f0a6d9f7f83
+      internalID: -331743449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machomei
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2027
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ee0d2f4fdb09438166bb703eabbe6
+      internalID: 483159334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knofensa
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac30c2c2ab8754aa05672787933f54
+      internalID: -252132977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ultrigaria
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1825
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5b523afa6cb44c934c838a4e7435a
+      internalID: -2050725762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sarzenia
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1827
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc6df827d9c694ca0fb3b8f62ecd4a
+      internalID: 1323636665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentacha
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1833
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e0f84e3eb64e4182507b5a7de88b4
+      internalID: 75491280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tentoxa
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1824
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc1ad6254a9e74fa88afb2d33efc3f
+      internalID: -1791347539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kleinstein
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1823
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169ad7df61fba242ae3fd669104c730
+      internalID: 1904605636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Georok
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1824
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a0921652c338d4d97c2bd1feeace50
+      internalID: -1840098831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geowaz
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1830
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc36c12b22c2724fac4f24eb09e16fe
+      internalID: 2048604977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ponita
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1837
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63abd380d6811b847b8bc74bb390a7b0
+      internalID: 869275579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gallopa
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1830
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6f64acec39ba940add2142c9cbe6ef
+      internalID: 1603242864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flegmon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b550f4250c21cf47a78f64a99c632f3
+      internalID: 1296849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lahmus
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1632
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a898df0813184c8fc404b3b3adabf
+      internalID: 1192194802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magnetilo
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1633
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee12b38f104574da1b0d3c963dc11f
+      internalID: 1533170364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneton
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1636
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f34906d1c3f846babc3a0145b706e
+      internalID: -1085863142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porenta
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1634
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f5c0fa53adfb429ebb200881e6095
+      internalID: -963922689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodu
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1634
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76169f5ec6a9de4eaeb5b9c21fc06c0
+      internalID: -258585624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodri
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1634
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55770aa87bc754b94f68bca3b45b4a
+      internalID: -2090191509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jurob
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1631
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de8f1e66d3e684aa26329ef637d223
+      internalID: -362157797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugong
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc964549b7a25a40b6c9a7de324ec14
+      internalID: -245433968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleima
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1441
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f944d6e349a5ed8449cadf97162476f6
+      internalID: 1585781474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleimok
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1443
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe294e00d59deba4399513c1c4e6aee1
+      internalID: 973816381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muschas
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1440
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955725f39713d047951b62f831a8216
+      internalID: -1553057634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Austos
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1438
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ecd979502e9d445b6094c0ee625a8c
+      internalID: -454711921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nebulak
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1444
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5971519f8396449449f4e8ed4e6f08fa
+      internalID: -1977153431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alpollo
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1444
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61cd7f3eb798f4f909c94af88e53a6
+      internalID: 216322781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1437
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be83cff09655e424dab656fa6e620692
+      internalID: 1153085409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onix
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1435
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acd0dddf1f4da489aa8973aafe51c1
+      internalID: -521823507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traumato
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1442
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600de706a26849d4c92f6ec05adde732
+      internalID: -606100659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hypno
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1246
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae03c389c6ddca4981cbb03e926158f
+      internalID: -802856217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krabby
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1248
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e497032c1162849bf6ac43b97a0578
+      internalID: 1698171110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingler
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1243
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68bf5ba76b98049b0885e44273dce2
+      internalID: -1977466595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voltobal
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1245
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a45182c391bee44b70012f0366d4cc
+      internalID: 1144972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lektrobal
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1245
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65144e39275ce08418856f93528188ac
+      internalID: -931829700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Owei
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1243
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d089aa97c8bbf04eb6d04a38f1e2872
+      internalID: -1798591006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kokowei
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1243
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca94b6551d6e446b2bc82af033bc27
+      internalID: -1196645383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tragosso
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1243
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc50684910db046b44eb7a9f4df3d4
+      internalID: -1650477426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knogga
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1245
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bffcc704d10f5c47ac914923fee5bae
+      internalID: 1869933817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kicklee
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40c56a44cbdc746bab4485c878828a
+      internalID: -512454774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nockchan
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1048
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb14d4d20724c4096528c57e9ec495
+      internalID: -2047681402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schlurp
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1048
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c040a090eca88c4ab70e31c371b6f22
+      internalID: 999634354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smogon
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1050
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd39eea9944464abf9fc0ad97a6d4f
+      internalID: -980615212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smogmog
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1049
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8280941be617f4aacefe503e5b56b4
+      internalID: 926900354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rihorn
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1049
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09da3c009b783743ab99cdacb447f6e
+      internalID: -1404357105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rizeros
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1051
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577767454f142214a919346e52490371
+      internalID: -1485176390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaneira
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1049
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fbf544ff51f3d40887b24423f4f630
+      internalID: 1646324664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangela
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcb7a964e65b74c861ddbcb3253787
+      internalID: -1727604333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kangama
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 851
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546538c20f37f941b8959d658afcb48
+      internalID: 788955711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeper
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 852
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbb3f792108e648bb3317191c7d2d4
+      internalID: 709033834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seemon
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 857
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700675dad0357354aa63cda80de18c83
+      internalID: 382082868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldini
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 852
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d666b78fb327684fb100dfb5991d2f8
+      internalID: 448512831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golking
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 855
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7222ed5d3866c4a8fb062f2da55bd1
+      internalID: 2087634699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sterndu
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 859
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21f08d101d5e54892cb383c3d8ee1c
+      internalID: -1058022797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starmie
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 855
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e026738484954d9ac279621bc52e2
+      internalID: -2044836307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pantimos
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99008e2b0dbe954e8ac581a738cf5d8
+      internalID: 172315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sichlor
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 664
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd783fa6afa3c24e9e0ebeecd5350c6
+      internalID: 618145663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rossana
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 663
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c90cdda7a9b74a9ea38bd96e875a3
+      internalID: -1873831746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elektek
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 655
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77aacf9cde38484f8b583c73bae226b
+      internalID: 161673824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magmar
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 656
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c2e5ba10d79f741b6a1e324e6e60e0
+      internalID: 364958536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinsir
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 655
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994912e3356b7764e95384fd124eea09
+      internalID: -75674975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tauros
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 660
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e008b2494f3a478fc5cc7aa691dc3
+      internalID: 1065429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karpador
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 663
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e51106ee58dad47a32f9a7f89e2d8d
+      internalID: 773220672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garados
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03306136b389044f8fb33f8a7bb20ea
+      internalID: 1892594361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 465
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108892eb5416e3d428631ac88d564e7f
+      internalID: 481520250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 464
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582cd03873a2534ca7f7d79747630e5
+      internalID: 516638237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evoli
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 463
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2811151e894bfbe43a5c1d8b7245446c
+      internalID: -1513753918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aquana
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 461
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb1da8b6d024c47ad3afbf13abbee2
+      internalID: 539131969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blitza
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 468
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a03616de4ee974c8b16412ee418331
+      internalID: -1223952535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flamara
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 468
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d747e712579f624880a1c90e39b5667
+      internalID: 920392476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Porygon
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 466
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990997a515d3e9740aa97547c854079a
+      internalID: -1664648488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amonitas
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 468
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ff9932a40d444db6925242f443450
+      internalID: -1558622934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amoroso
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 80
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ac11875c86f34692579c66994396c
+      internalID: 1585271005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabuto
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 271
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2d52067e45c7b4c88d4f8cbf2a3efd
+      internalID: -1826048034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kabutops
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 270
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f166b1a1309464997bde5772eb691e
+      internalID: -69597495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aerodactyl
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 269
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39076008b71e6d43a4a2806ad2875ef
+      internalID: -1105150362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Relaxo
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 267
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51411f930ecb6a149993bb9459dcca39
+      internalID: -673248831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arktos
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 263
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3f2a9b4c2cb847b8ffc49adb4e0f6
+      internalID: -1635690420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zapdos
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 265
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3844aaddfabe42a9fa051879e2889
+      internalID: 1995483474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavados
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 272
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a78cf0b52dd54a946ab0a672bf52d
+      internalID: 699806458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dratini
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 267
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16893c57d65c60847ac6c5b9bc49acdc
+      internalID: 722443568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragonir
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 272
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c00d536ed03dba4486fdb97e8d6f172
+      internalID: -1800255771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragoran
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ba987905edf849a43d8a3c1595aec
+      internalID: 838767359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mewtu
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 76
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a308b9fcd52d41868c5c8ecb00dd8
+      internalID: 2102357381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mew
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 75
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19901275b558e5444b3d6701362ca496
+      internalID: 810064721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Abra: 603299770
+      Gen1_141: -751396254
+      Vulnona: -1291204165
+      Gen1_77: 595391637
+      Turtok: 331049794
+      Onix: -521823507
+      Shiggy: 463400124
+      Gen1_200: 275928022
+      Nidoking: -186517183
+      Smogon: -980615212
+      Gen1_146: 570686883
+      Gen1_197: -1067350234
+      Smettbo: 151478623
+      Gen1_199: -1703482151
+      Gen1_60: -386409877
+      Mewtu: 2102357381
+      Pantimos: 172315526
+      Gen1_232: 1840497243
+      Parasek: 1579086454
+      Rossana: -1873831746
+      Sterndu: -1058022797
+      Gen1_125: -449749067
+      Gen1_168: -284691361
+      Gen1_58: 1465831321
+      Gen1_194: 1933866651
+      Kingler: -1977466595
+      Jurob: -362157797
+      Starmie: -2044836307
+      Mauzi: 1750948689
+      Gen1_142: 999742735
+      Seemon: 382082868
+      Lapras: 481520250
+      Menki: 720408359
+      Gen1_147: 1344905107
+      Gen1_252: -669856303
+      Sandan: -434418318
+      Elektek: 161673824
+      Gen1_166: 2098750492
+      Gen1_248: -1338629750
+      Bisaflor: 612357416
+      Evoli: -1513753918
+      Gallopa: 1603242864
+      Gen1_148: -2034366338
+      Dodu: -258585624
+      Gen1_151: 207489631
+      Gen1_162: 1265855058
+      Gen1_185: -1733192881
+      Gen1_213: -505754576
+      Tragosso: -1650477426
+      Gen1_129: -2141710441
+      Gen1_163: -1318897997
+      Gen1_38: -734312325
+      Sandamer: -1095502473
+      Lavados: 699806458
+      Gen1_20: -1596983225
+      Giflor: 889163
+      Gen1_243: -1002574483
+      Ponita: 869275579
+      Gen1_112: -368379081
+      Gen1_247: -896633242
+      Gen1_82: -1097501666
+      Gen1_113: -831327915
+      Relaxo: -673248831
+      Gen1_72: 21513918
+      Nidoqueen: 1170054081
+      Smogmog: 926900354
+      Gen1_111: -404094937
+      Machollo: -1188678278
+      Flegmon: 1296849154
+      Gen1_201: 151801093
+      Krabby: 1698171110
+      Gen1_28: 665975000
+      Gen1_253: -938720708
+      Duflor: 386120308
+      Gen1_217: -1761409712
+      Gen1_216: -1016932490
+      Quappo: 847706889
+      Owei: -1798591006
+      Arktos: -1635690420
+      Flamara: 920392476
+      Maschock: -331743449
+      Garados: 1892594361
+      Gen1_257: 969900674
+      Gen1_49: 243785736
+      Gen1_250: -844307522
+      Magmar: 364958536
+      Gen1_105: -1004877780
+      Gen1_145: 2116302886
+      Gen1_214: -37832739
+      Traumato: -606100659
+      Gen1_39: -900460435
+      Gen1_74: 2000207086
+      Pummeluff: 1882565857
+      Paras: 2142526790
+      Gen1_48: 792427198
+      Gen1_182: -847699761
+      Glumanda: -1996839547
+      Mew: 810064721
+      Gen1_167: -334443707
+      Voltobal: 1144972946
+      Kicklee: -512454774
+      Gen1_211: -1532546341
+      Machomei: 483159334
+      Sichlor: 618145663
+      Kleinstein: 1904605636
+      Nidorina: -2011796906
+      Digdri: -930628444
+      Glutexo: 960023631
+      Porygon: -1664648488
+      Gen1_169: -61995571
+      Gen1_75: 1713939372
+      Tentacha: 75491280
+      Gen1_196: -755429721
+      Gen1_184: -163984683
+      Zapdos: 1995483474
+      Kokuna: -207583476
+      Gen1_91: -459464647
+      Rattikarl: 305828996
+      Gen1_5: -1746292804
+      Taubsi: 167434238
+      Gen1_164: -1482125017
+      Nidorino: -95657116
+      Gen1_183: -783868253
+      Dodri: -2090191509
+      Dragoran: 838767359
+      Gen1_88: -718725481
+      Georok: -1840098831
+      Knuddeluff: 825662119
+      Gen1_212: -784594575
+      Gen1_110: 1771336479
+      Gen1_234: 1457130507
+      Tauboss: 1675753345
+      Bibor: 1801948603
+      Sleima: 1585781474
+      Gen1_179: -1782754957
+      Gen1_233: 763076223
+      Rizeros: -1485176390
+      Magnetilo: 1533170364
+      Geowaz: 2048604977
+      Jugong: -245433968
+      Gen1_198: 1017488861
+      Gen1_262: 225791939
+      Gen1_161: 768082880
+      Safcon: 1048038959
+      Amoroso: 1585271005
+      Austos: -454711921
+      Tauboga: -549254830
+      Sarzenia: 1323636665
+      Bisaknosp: -249815832
+      Nebulak: -1977153431
+      Piepi: -1547258312
+      Rettan: 58308469
+      Schlurp: 999634354
+      Dratini: 722443568
+      Gen1_255: 2081687651
+      Hornliu: -134144376
+      Gen1_109: 1541627282
+      Gen1_195: 316181451
+      Kabutops: -69597495
+      Gen1_235: -1902038631
+      Hypno: -802856217
+      Gen1_261: -783392434
+      Gen1_73: 1781312631
+      Schillok: -416575886
+      Enton: 2012816608
+      Lahmus: 1192194802
+      Gen1_143: 1432588031
+      Digda: -1334541517
+      Pinsir: -75674975
+      Gen1_94: -1885352103
+      Tangela: -1727604333
+      Quapsel: -1794386694
+      Gen1_108: 1873910511
+      Myrapla: 72770526
+      Gen1_254: 2060367465
+      Habitak: 840430945
+      Alpollo: 216322781
+      Gen1_263: -1395793221
+      Tentoxa: -1791347539
+      Gen1_229: 238567397
+      Gen1_93: -287083974
+      Glurak: -1774034013
+      Zubat: 1735137739
+      Nockchan: -2047681402
+      Kabuto: -1826048034
+      Gen1_126: 1085068781
+      Gen1_107: 1577391448
+      Gen1_178: 1755034886
+      Pikachu: -1840770012
+      Seeper: 709033834
+      "Nidoran\u2640": -777427487
+      Gen1_123: -1340546101
+      Gen1_144: -1924984260
+      Gen1_230: 213274220
+      Bisasam: 784268017
+      Gen1_76: -1607766947
+      Ibitak: -280964023
+      Gen1_59: 143839506
+      Arkani: 454543716
+      Golbat: -248091708
+      Muschas: -1553057634
+      Chaneira: 1646324664
+      Gengar: 1153085409
+      Ultrigaria: -2050725762
+      Ditto: 516638237
+      Gen1_210: -1825136584
+      Knofensa: -252132977
+      Fukano: -891256551
+      Gen1_90: 87624834
+      Quaputzi: 1135127980
+      Lektrobal: -931829700
+      Gen1_181: 554170120
+      Gen1_249: 291930578
+      Gen1_10: 1714881067
+      Porenta: -963922689
+      Entoron: 1853865266
+      Gen1_165: -1223953884
+      Gen1_150: -1977624245
+      Gen1_87: 528141194
+      Raupy: -1394486872
+      Magneton: -1085863142
+      Aerodactyl: -1105150362
+      Gen1_124: 1292875122
+      Gen1_215: 947388056
+      Gen1_114: -52046242
+      Knogga: 1869933817
+      Blitza: -1223952535
+      Gen1_106: 444039343
+      Gen1_71: -1738265740
+      Gen1_128: 1101250408
+      Rattfratz: 984159459
+      Gen1_127: 1411053938
+      Karpador: 773220672
+      Kadabra: 848639614
+      Gen1_251: -221773131
+      Gen1_227: 453414388
+      Gen1_89: 925234763
+      "Nidoran\u2642": 1035005828
+      Tauros: 1065429426
+      Rasaff: -388305351
+      Pixi: 1109589304
+      Sleimok: 973816381
+      Rihorn: -1404357105
+      Golking: 2087634699
+      Vulpix: -124683600
+      Arbok: -1016759219
+      Kangama: 788955711
+      Goldini: 448512831
+      Dragonir: -1800255771
+      Amonitas: -1558622934
+      Gen1_180: 1997926531
+      Gen1_256: 2114466867
+      Kokowei: -1196645383
+      Gen1_138: 79848243
+      Omot: -1900935529
+      Aquana: 539131969
+      Snobilikat: 421758075
+      Gen1_92: -658311723
+      Gen1_231: -1855121777
+      Bluzuk: 1604738259
+      Simsala: -529696219
+      Gen1_149: 1651501919
+      Gen1_228: 1268822022
+      Raichu: 926483385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
